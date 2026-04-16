@@ -114,3 +114,7 @@ The analysis shows strong overall business performance with **steady growth and 
 
 By improving **product diversification, inventory management, and seasonal strategy**, Maven Toys can further enhance growth and efficiency.
 
+📄 Report Structure
+
+This project is delivered as a 4-page analytical report built in Power BI, designed to provide both detailed analysis and interactive insights.
+
