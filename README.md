@@ -1,6 +1,6 @@
 # 🧸 Maven Toys Sales Analysis 
 
-## 📊 Dashboard Screenshots
+## 📊 Dashboard Preview
 
 ### 📍 Page 1 –  Sales & Growth Analysis
 
